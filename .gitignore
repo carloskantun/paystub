@@ -1,0 +1,7 @@
+/vendor/
+.env
+/storage/paystubs/*
+!/storage/paystubs/.gitkeep
+!/storage/paystubs/.htaccess
+/storage/tmp/*
+!/storage/tmp/.gitkeep
